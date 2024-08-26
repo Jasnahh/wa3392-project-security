@@ -1,6 +1,0 @@
-# pipeline.yaml
-...
-steps:
-...
-- name: test with bandit
-run: bandit -r .
